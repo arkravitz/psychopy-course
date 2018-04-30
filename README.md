@@ -1,2 +1,2 @@
 # psychopy-course
-A course in for people that know Matlab in Python and Psychopy.
+A course for people that know Matlab in Python and Psychopy.
