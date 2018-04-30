@@ -102,3 +102,6 @@ ENV/
 
 # Mac Files
 .DS_Store
+
+# Notebook
+.ipynb_checkpoints/
